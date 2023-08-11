@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE)
 
 ### Contact
 For any questions or feedback, please contact:
-- Sanskar Purohit
-- sanskar.purohit946@gmail.com
+- Neelam Dubey
+- neelam.dubey0817@gmail.com
 
 Feel free to explore and contribute to the project. Happy coding!
